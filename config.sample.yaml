@@ -1,0 +1,12 @@
+contentDir: "data"
+snapshotsDir: "data/snapshots"
+retentions:
+    -
+        every: 1
+        keep: 7
+    -
+        every: 7
+        keep: 8
+    -
+        every: 30
+        keep: 12
